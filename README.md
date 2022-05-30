@@ -40,6 +40,8 @@ Interesting links, books and articles that helped me once.
 * [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 * [SQL habit](https://www.sqlhabit.com/quizzes/data-analysis-skill-test)
 * [Базы данных - Технопарк](https://www.youtube.com/playlist?list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
+* [Базовый курс по SQL для аналитиков и менеджеров](https://www.youtube.com/playlist?list=PLKl9v2TQvIkq4i_hZwZ1PmobxJSkIGwBf)
+* [Расширенные возможности SQL](https://youtube.com/playlist?list=PLKl9v2TQvIkqHEOvM1sLX3rNJ3WZJRKQ9)
 
 ### PySpark
 * [PySpark Style Guide](https://github.com/palantir/pyspark-style-guide)
@@ -60,6 +62,7 @@ Interesting links, books and articles that helped me once.
 * [OpenML](https://www.openml.org/)
 * [100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/)
 * [Papertalk](https://papertalk.org/index)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md)
 
 ### ML courses
 * [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29)
@@ -70,6 +73,7 @@ Interesting links, books and articles that helped me once.
 * [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
 
 ### DL courses
+* [Introduction to Deep Learning-- 170 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers](https://sebastianraschka.com/blog/2021/dl-course.html)
 * [Stepic - Нейронные сети и компьютерное зрение](https://stepik.org/course/50352/syllabus)
 
 ### NLP
