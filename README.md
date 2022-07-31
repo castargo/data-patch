@@ -81,6 +81,9 @@ Interesting links, books and articles that helped me once.
 * [NLP Course by Lena Voita](https://lena-voita.github.io/nlp_course.html)
 * [Stanford CS224N: Natural Language Processing with Deep Learning | Winter 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 
+### Reinforcement Learning
+* [DeepMind x UCL RL Lecture Series - Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=TCCjZe0y4Qc)
+
 ### Numerical Linear Algebra
 * "Лекции по алгебре" М.В. Невский
 * Numerical Linear Algebra by Prof. Ivan Oseledets
