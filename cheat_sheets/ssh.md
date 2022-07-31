@@ -1,5 +1,7 @@
 # SSH cheat sheets
 
+[How to use ssh-keygen to generate a new SSH key](https://www.ssh.com/academy/ssh/keygen)
+
 SSH-ключ используется, например, для аутентификации для Git-серверов. 
 
 ## Генерация открытого SSH ключа
