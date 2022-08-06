@@ -44,6 +44,7 @@ Interesting links, books and articles that helped me once.
 * [Расширенные возможности SQL](https://youtube.com/playlist?list=PLKl9v2TQvIkqHEOvM1sLX3rNJ3WZJRKQ9)
 
 ### PySpark
+* "Изучаем Spark. Молниеносный анализ данных" Захария Матей
 * [PySpark Style Guide](https://github.com/palantir/pyspark-style-guide)
 
 ### Visualization with Python
@@ -68,7 +69,7 @@ Interesting links, books and articles that helped me once.
 * [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29)
 * [Введение в машинное обучение (К.В.Воронцов)](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
 * [Специализация Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis)
-* [Учебник по машинному обучению ШАДа](https://ml-handbook.ru/?utm_source=telegram&utm_medium=internal&utm_campaign=ml_book&utm_content=2)
+* [Учебник по машинному обучению ШАДа](https://ml-handbook.ru/)
 * [Курс "Машинное обучение" на ФКН ВШЭ](https://github.com/esokolov/ml-course-hse)
 * [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)
 
@@ -89,7 +90,12 @@ Interesting links, books and articles that helped me once.
 * Numerical Linear Algebra by Prof. Ivan Oseledets
     * [Site](https://nla.skoltech.ru/index.html)
     * [YouTube](https://www.youtube.com/playlist?list=PLy_LHooyVCB3qucYk5jx--J2JhE0sC9kt)
-    
+
+### Probability Theory and Mathematical Statistics
+* [Основы статистики от Анатолия Карпова](https://stepik.org/course/76/info)
+* "Статистика для всех" Сара Бослаф
+* [statistica.ru](http://statistica.ru/)
+
 ### Job interview
 * 500 Data Science Interview Questions and Answers by Vamsee Puligadda
 * [iamtodor/data-science-interview-questions-and-answers](https://github.com/iamtodor/data-science-interview-questions-and-answers)
