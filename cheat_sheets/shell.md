@@ -622,7 +622,19 @@ echo $variable ==> 12345
 echo "$variable" ==> 12345
 echo '$variable' ==> $variable
 
-# Встроенные документы (here document)
+# Сброс значения переменной
+unset var
+```
+При присвоении переменной другой несуществующей переменной будет присвоено пустое значение.
+
+Подстановки в строки:
+```
+a="txt"
+echo "${a}_file" ==> txt_file
+```
+
+Встроенные документы (here document):
+```
 # Формат:
 # команда << индикатор
 # текст
@@ -635,9 +647,19 @@ cat << _EOF_
 _EOF_
 ```
 
-При присвоении переменной другой несуществующей переменной будет присвоено пустое значение.
+Массивы:
+```
+# Способы создать массив
+# Способ 1
+days=(Mon Tue Wed Thu Fri Sat Sun)
 
-* ```unset var``` - сброс значения переменной
+# Способ 2
+a[1]=123
+echo ${a[1]}
+
+# Способ 3
+declare -a a
+```
 
 ### Скрипты
 Shell-скрипт - текстовый файл с расширением .sh, в котором последовательно записаны команды.
@@ -715,6 +737,59 @@ elif [[ $x -lt 3 ]]; then
 else
   echo "x = 3"
 fi
+```
+
+Чтение с клавиатуры:
+```
+read variable
+read variable1 variable2 variable3
+```
+
+Циклы (поддерживают break и continue):
+```
+# while
+i=1
+while [[ $i -le 10 ]]; do
+  echo $i
+  i=$((i + 1))
+done
+
+# until
+i=1
+until [[ $i -gt 10 ]]; do
+  echo $i
+  i=$((i + 1))
+done
+
+# for1
+for i in {A..D}; do
+  echo $i;
+done
+
+# for2
+for (( i=0; i<5; i=i+1 )); do
+  echo $i
+done
+```
+
+Ветвление case:
+```
+read Keypress
+case "$Keypress" in
+  [a-z]   ) echo "буква в нижнем регистре";;
+  [A-Z]   ) echo "Буква в верхнем регистре";;
+  [0-9]   ) echo "Цифра";;
+  *       ) echo "Что-то другое";;
+esac
+```
+
+Параметры командной строки:
+```
+#!/bin/bash
+echo "Hello, $1"
+
+# Запуск скрипта ==> ./script.sh "John Doe"
+# Результат ==> "Hello, John Doe"
 ```
 
 ## Соответствие консольных команд Windows и Linux
