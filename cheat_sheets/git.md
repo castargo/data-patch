@@ -34,6 +34,7 @@ Git хранит данные как снимки (snapshot) во времени
 Настройки пользователя:         
 * ```git config --global user.name "John Doe"```
 * ```git config --global user.email johndoe@example.com```
+* ```git config --global core.editor emacs```
 * Текстовый редактор:
   * ```git config --global core.editor emacs```
   * ```git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"```
@@ -41,7 +42,6 @@ Git хранит данные как снимки (snapshot) во времени
 * ```git config --global credential.helper cache```
 
 ## Первичные настройки репозитория
-
 Создать Git-репозиторий можно одним из двух способов:
 * Сделать Git-репозиторий из локального каталога:
   * Пусть у нас есть какой-то проект в каталоге, тогда достаточно выполнить команду: ```git init```
@@ -110,6 +110,14 @@ git push --force
 Исключение файла из индекса:        
 * ```git reset HEAD <file>```
 * ```git restore --staged <file>```
+
+Построчная отмена изменений в файле (без возможности восстановления):
+* ```git restore -p <file>```
+  * [Статья Using Git restore to discard changes within a file](https://www.tempertemper.net/blog/using-git-restore-to-discard-changes-within-a-file)
+  * s - split the current hunk into smaller hunkse - manually edit the current hunk
+  * y - discard this hunk from worktree
+  * n - do not discard this hunk from worktree 
+  * ? - print help
 
 Отмена индексации файла:        
 ```git reset file.txt```
