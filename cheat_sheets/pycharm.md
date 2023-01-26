@@ -20,6 +20,9 @@ Tools ==> Deployment ==> Option
 ## Disable duplicate code detection
 File ==> Settings ==> Editor ==> Inspections ==> General ==> Duplicated code fragment
 
+## Add git tracking for folder
+File ==> Settings ==> Version Control ==> Directory Mapping
+
 ## Google style docstring
 File ==> Settings ==> Tools ==> Python integrated tools ==> Docstrings ==> Docstring format: Google
 
