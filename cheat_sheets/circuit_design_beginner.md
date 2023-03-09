@@ -17,3 +17,6 @@
 * [Основы электроники для детей](https://www.youtube.com/playlist?list=PLNAsgvPRQbqhAr_owUecml6L5sCxj-FJ7)
 * [Основы электротехники от Экспоненты](https://www.youtube.com/playlist?list=PLmu_y3-DV2_ko4Q36htOLjHM3QgGnbQY0)
 * [Основы цифровой схемотехники от Экспоненты](https://www.youtube.com/playlist?list=PLmu_y3-DV2_mdPNAjp_8VIhtdlWPuZKZL)
+
+### Raspberry Pi Pico
+* [Начало работы с Raspberry Pi Pico на MicroPython: руководство для начинающих](https://microkontroller.ru/raspberry-pi-projects/nachalo-raboty-s-raspberry-pi-pico-na-micropython-rukovodstvo-dlya-nachinayushhih/)
