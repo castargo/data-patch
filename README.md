@@ -106,3 +106,7 @@ Interesting links, books and articles that helped me once.
     * [Python Pandas interview questions](https://www.javatpoint.com/python-pandas-interview-questions)
     * [Python | Pandas Interview Questions And Answers](https://www.kausalvikash.in/python-pandas-interview-questions-and-answers-for-freshers/)
     * [Excellent Collection of Pandas Interview Questions](https://www.kaggle.com/getting-started/119445)
+
+### Speed Typing
+* [Klava.org](https://klava.org/delta/#eng_begin)
+* [Typing club](https://www.typingclub.com/)
