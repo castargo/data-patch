@@ -20,3 +20,4 @@
 
 ### Raspberry Pi Pico
 * [Начало работы с Raspberry Pi Pico на MicroPython: руководство для начинающих](https://microkontroller.ru/raspberry-pi-projects/nachalo-raboty-s-raspberry-pi-pico-na-micropython-rukovodstvo-dlya-nachinayushhih/)
+* [Tom's hardware - работа с LCD-дисплеем](https://www.tomshardware.com/how-to/lcd-display-raspberry-pi-pico)
