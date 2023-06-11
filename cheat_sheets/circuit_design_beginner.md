@@ -21,3 +21,6 @@
 ### Raspberry Pi Pico
 * [Начало работы с Raspberry Pi Pico на MicroPython: руководство для начинающих](https://microkontroller.ru/raspberry-pi-projects/nachalo-raboty-s-raspberry-pi-pico-na-micropython-rukovodstvo-dlya-nachinayushhih/)
 * [Tom's hardware - работа с LCD-дисплеем](https://www.tomshardware.com/how-to/lcd-display-raspberry-pi-pico)
+* PWM
+    * [Raspberry Pi Pico PWM Guide – LED Dimming With Potentiometer](https://electrocredible.com/raspberry-pi-pico-pwm-guide-led-dimming-example/)
+    * [Generate variable voltages with the Pi Pico PWM in MicroPython](https://www.upesy.com/blogs/tutorials/micropython-raspberry-pi-pico-pwm-usage#)
