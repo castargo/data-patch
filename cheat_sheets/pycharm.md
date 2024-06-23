@@ -23,6 +23,9 @@ File ==> Settings ==> Editor ==> Inspections ==> General ==> Duplicated code fra
 ## Add git tracking for folder
 File ==> Settings ==> Version Control ==> Directory Mapping
 
+## Fix project structure
+ПКМ ==> Mark directory as ==> Source root
+
 ## Google style docstring
 File ==> Settings ==> Tools ==> Python integrated tools ==> Docstrings ==> Docstring format: Google
 
