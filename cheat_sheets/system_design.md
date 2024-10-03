@@ -1,15 +1,30 @@
-# Мысли о том, что нужно держать в голове, делая свой проект
+# System design
 
-## Минимальные конфигурации python-проекта
-* git-flow
-* Конфиг в yaml
-* PEP-8, кодстайлы
-* requirements.txt
-* README.md / INSTALL.md с инструкцией по запуску
-* Линтер, например, mypy
-* Аннотации у функций и классов
+## Курсы
+* [ML for Developers: Design, Develop, Deploy, Iterate](https://madewithml.com/#mlops)
 
-## Принципы декомпозиции
+## Минимальная конфигурация проекта
+
+* Документация
+    * README.md / INSTALL.md с инструкцией по запуску
+    * Аннотации у функций и классов
+* Гибкие настройки
+    * Yaml-конфиги, env-переменные окружения
+* Форматирование кода
+    * PEP-8, кодстайлы
+    * Линтеры (например, mypy) и форматеры кода (например, black)
+* Работа в команде
+    * Воспроизводимость экспериментов (requirements.txt и виртуальные окружения)
+    * Треккинг задач
+    * git-flow
+
+## Разработка архитектуры приложения
+* [Refactoring Guru: Design Patterns](https://refactoring.guru/design-patterns)
+* [Complete Guide to Caching in Python](https://towardsdatascience.com/complete-guide-to-caching-in-python-b4e37a4bcebf)
+
+## Проектирование кода
+
+### Базовые принципы декомпозиции
 * Название функции - глагол
 * Одна функция == одно действие
 * [Пара слов об именовании переменных и методов](https://habr.com/ru/articles/508238/)
@@ -28,7 +43,7 @@
   * Абстракции не должны зависеть от подробностей
   * Подробности должны зависеть от абстракций
 
-## Принципы написания кода
+### Принципы написания кода
 * KISS == keep it simple, stupid (бритва Окама)
 * EAFP == it's easy to ask for forgiveness than permission
 * LBYL == look before you leap
