@@ -7,6 +7,11 @@
 * Высоконагруженные приложения. Программирование, масштабирование, поддержка - Клеппман Мартин
 * Предметно-ориентированное проектирование (DDD): структуризация сложных программных систем - Эрик Эванс
 
+## ML System Design
+* [Machine Learning System Design - VENHEADs](https://github.com/ML-SystemDesign/MLSystemDesign)
+* [Machine Learning System Design - alirezadir](https://github.com/alirezadir/Machine-Learning-Interviews/blob/main/src/MLSD/ml-system-design.md)
+* [Stanford MLSys Seminars](https://www.youtube.com/playlist?app=desktop&list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+
 ## Принципы проектирования сервисов
 
 0. Проговариваем ВСЕ детали, которые только возможно проговорить (explicit/implicit)
