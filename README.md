@@ -37,6 +37,9 @@
 * [Базы данных - Технопарк](https://www.youtube.com/playlist?list=PLrCZzMib1e9oOFQbuOgjKYbRUoA8zGKnj)
 * [Базовый курс по SQL для аналитиков и менеджеров](https://www.youtube.com/playlist?list=PLKl9v2TQvIkq4i_hZwZ1PmobxJSkIGwBf)
 * [Расширенные возможности SQL](https://youtube.com/playlist?list=PLKl9v2TQvIkqHEOvM1sLX3rNJ3WZJRKQ9)
+* [SQL games](https://datalemur.com/blog/games-to-learn-sql#sql-murder-mystery)
+* [SQL Tutorial for Data Scientists & Data Analysts](https://datalemur.com/sql-tutorial)
+* [SQL for Data Analytics - Learn SQL in 4 Hours](https://www.youtube.com/watch?app=desktop&v=7mz73uXD9DA&ab_channel=LukeBarousse)
 
 ### PySpark
 * "Изучаем Spark. Молниеносный анализ данных" Захария Матей
