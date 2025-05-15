@@ -1,4 +1,12 @@
-# Всякое разное около психологическое
+# Развитие soft skills
+
+## Поиск ментора
+* [getmentor](https://getmentor.dev/)
+
+## Курсы риторики и актерского мастерства
+* [Седа Каспарова](https://www.youtube.com/@SedaKasparova?app=desktop)
+* [Part academy](https://msk.partacademy.ru/)
+* [Gogol school](https://gogolschool.ru/)
 
 ## Планирование
 * Матрица Эйзенхауэра
@@ -7,6 +15,7 @@
 * [Дневник СМЭР КПТ](https://www.b17.ru/blog/390596/)
 * [Тест социальной адаптации Холмса–Рея](https://therapy.irkutsk.ru/doc/srrs.pdf) - позволяет определить уровень стресса человека
 * [Шкала депрессии Бека](https://psytests.org/depr/bdi-run.html)
+* [Шкала тревоги Бека](https://psytests.org/depr/bai.html)
 * [Опросник враждебности Басса-Дарки, BDHI](https://psytests.org/confl/bdhi.html)
 * [Опросник Большой пятерки, IPIP-NEO-300](https://psytests.org/big5/ineoA.html) - диспозициональная модель личности человека, отражающая восприятие людей друг другом
 
